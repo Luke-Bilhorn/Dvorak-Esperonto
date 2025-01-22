@@ -1,5 +1,5 @@
-# Dvorak-Esperonto
-Simple Dvorak Esperonto Layout for Mac
+## Dvorak-Esperonto
+# Simple Dvorak Esperonto Layout for Mac
 
 
 Usage instructions:
