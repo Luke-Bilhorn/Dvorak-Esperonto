@@ -1,5 +1,5 @@
 # Dvorak-Esperonto
-Simple Dvorak Esperonto Layout for Mac
+Simple Dvorak Esperonto Layout for Mac. Use the Option (Alt) key with c, g, h, j, s, and u to type ĉ, ĝ, ĥ, ĵ, ŝ, and ŭ.
 
 
 ## Usage instructions:
